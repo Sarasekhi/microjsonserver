@@ -1,0 +1,973 @@
+{
+  "header": [
+    {
+      "microimage": "./images/microsoftlg.png"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "title": "Microsoft&nbsp;365",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "title": "Teams",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "title": "Copilot",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "title": "Windows",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 5,
+      "title": "Surface",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 6,
+      "title": "Xbox",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 7,
+      "title": "Black&nbsp;Friday&nbsp;Deals",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 8,
+      "title": "Small&nbsp;Business",
+      "link": "#",
+      "dropdown": []
+    },
+    {
+      "id": 9,
+      "title": "Support",
+      "link": "#",
+      "dropdown": []
+    }
+  ],
+  "allMicrosoft": [
+    {
+      "id": 1,
+      "title": "Software",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Software",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Windows Apps",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "AI",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Outlook",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "OneDrive",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Microsoft Teams",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "OneNote",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Microsoft Edge",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 9,
+          "title": "Skype",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "PCs & Devices",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Computers",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Shop Xbox",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Accessories",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "VR & mixed reality",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Certified Refurbished",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Trade-in for cash",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Entertainment",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Xbox Game Pass Ultimate",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "PC Game Pass",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Xbox games",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "PC and Windows games",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Movie & TV",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Business",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Microsoft Cloud",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Microsoft Security",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Dynamic 365",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Microsoft 365 for Business",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Microsoft Power Platform",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Windows 365",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Microsoft Industry",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Small Business",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Developer & IT",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Azure",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Developer Center",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Documentation",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Microsoft Learn",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Microsoft Tech Community",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Azure Marketplace",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "AppSource",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Visual Studio",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Other",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Microsoft Rewards",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Free downloads & Security",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Education",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Gift cards",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Holiday gifts",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Licensing",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Unlocked stories",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    }
+  ],
+  "siteMap": [
+    {
+      "title": "View Sitemap",
+      "link": "#",
+      "dropdown": []
+    }
+  ],
+  "userpart": [
+    {
+      "title": "Search",
+      "link": "#",
+      "iconclass": "fa-solid fa-magnifying-glass fa-flip-horizontal"
+    },
+    {
+      "title": "Cart",
+      "link": "#",
+      "iconclass": "fa-solid fa-cart-shopping pr-3 text-sm md:pr-0"
+    },
+    {
+      "title": "Sign In",
+      "link": "#",
+      "iconclass": "fa-regular fa-circle-user text-[20px]"
+    }
+  ],
+  "alertpart": [
+    {
+      "link": "#",
+      "description": "Black Friday deals are live + buy now, pay later. As low as 0% APR + price protection. Shop deals"
+    }
+  ],
+  "firstswiper": [
+    {
+      "mainlink": "#",
+      "imgalt": "Xbox",
+      "smimage": "./images/small-swiper.jpg",
+      "lgimage": "./images/medium-swiper (2).webp",
+      "xlimage": "./images/wide-swiper.jpg",
+      "subject": "Black Friday",
+      "title": "Save&nbsp;up&nbsp;to&nbsp;$60&nbsp;on&nbsp;Xbox&nbsp;Series&nbsp;X",
+      "description": "Give unlimited thrills with amazing savings on the fastest, most powerful Xbox yet.",
+      "shoplink": "#",
+      "btn": "Shop&nbsp;Xbox&nbsp;Series&nbsp;X"
+    },
+    {
+      "mainlink": "#",
+      "imgalt": "laptop",
+      "smimage": "./images/small-swiper.webp",
+      "lgimage": "./images/medium-swiper (1).webp",
+      "xlimage": "./images/wide-swiper.webp",
+      "subject": "Black Friday",
+      "title": "Save big on select Surface",
+      "description": "Get a great deal on select Surface devices for every magic maker, number cruncher, and everything in between.",
+      "shoplink": "#",
+      "btn": "Shop&nbsp;Surface&nbsp;deals"
+    }
+  ],
+  "productpart": [
+    {
+      "iconsrc": "./images/surface.svg",
+      "iconalt": "products",
+      "title": "Balck&nbsp;Friday&nbsp;deals:&nbsp;Surface",
+      "link": "#"
+    },
+    {
+      "iconsrc": "./images/Xbox-icon.svg",
+      "iconalt": "products",
+      "title": "Balck&nbsp;Friday&nbsp;deals:&nbsp;Xbox",
+      "link": "#"
+    },
+    {
+      "iconsrc": "./images/accessories.svg",
+      "iconalt": "products",
+      "title": "Balck&nbsp;Friday&nbsp;deals:&nbsp;Accessories",
+      "link": "#"
+    },
+    {
+      "iconsrc": "./images/Business.svg",
+      "iconalt": "products",
+      "title": "Shop&nbsp;Business&nbsp;deals",
+      "link": "#"
+    },
+    {
+      "iconsrc": "./images/Microsoft 365.svg",
+      "iconalt": "products",
+      "title": "Choose&nbsp;your&nbsp;Microsoft&nbsp;365",
+      "link": "#"
+    }
+  ],
+  "discountpart": [
+    {
+      "link": "#",
+      "imgsmsrc": "./images/product-small (2).webp",
+      "imgmdsrc": "./images/product-medium(2).jpg",
+      "imgalt": "Surface",
+      "subject": "Black Friday",
+      "title": "Up to $650 off Surface Laptop 5",
+      "description": "The wait is over—save big on the perfect balance of style, speed, and serious processing power. Select devices on sale now. Offer ends 12/3.",
+      "btn": "Shop&nbsp;Surface&nbsp;Laptop&nbsp;5",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsmsrc": "./images/product-small (3).webp",
+      "imgmdsrc": "./images/product-medium(3).webp",
+      "imgalt": "Surface",
+      "subject": "Black Friday",
+      "title": "Save Up to $800 on Surface Pro 9",
+      "description": "Black Friday starts now—grab amazing savings on select devices built to deliver laptop power and tablet flexibility. Offer ends 11/29.",
+      "btn": "Shop&nbsp;Surface&nbsp;Pro&nbsp;9",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsmsrc": "./images/product-small (1).jpg",
+      "imgmdsrc": "./images/product-medium(1).jpg",
+      "imgalt": "xbox",
+      "subject": "Black Friday",
+      "title": "Save Up to $60 on Xbox Series S",
+      "description": " Don’t miss this deal on next-gen speed and performance. Select consoles on sale now.",
+      "btn": "Shop&nbsp;Xbox&nbsp;Series&nbsp;S",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsmsrc": "./images/product-small (1).webp",
+      "imgmdsrc": "./images/product-medium(1).webp",
+      "imgalt": "xbox",
+      "subject": "Black Friday",
+      "title": "Up to $44 off Xbox Wireless Controller",
+      "description": "Ready, set, save big on select controllers designed for comfort, precision, and seamless sharing. Offer ends 11/27.",
+      "btn": "Shop&nbsp;Xbox&nbsp;Wireless&nbsp;Controller",
+      "btnlink": "#"
+    }
+  ],
+  "accesories": [
+    {
+      "mainlink": "#",
+      "imgalt": "accesory",
+      "smimage": "./images/accessories-small.webp",
+      "lgimage": "./images/accessories-medium.webp",
+      "xlimage": "./images/accessories-wide.webp",
+      "subject": "Black Friday",
+      "title": "Save up to 50% on select accessories",
+      "description": " It’s time—grab your list and shop hot deals on accessories designed to work seamlessly with your Surface device.",
+      "shoplink": "#",
+      "btn": "Shop&nbsp;Accessories"
+    }
+  ],
+  "forbusiness": [
+    {
+      "link": "#",
+      "imgsrc": "./images/for business (2).webp",
+      "imgalt": "for business",
+      "title": "Save up to $350 on Surface Laptop 5 for Business",
+      "description": "Lightning-fast performance, built-in security and sleek portability designed for your small business. Offer ends 12/20.",
+      "btn": "Shop&nbsp;now",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsrc": "./images/for business (1).webp",
+      "imgalt": "for business",
+      "title": "15% off Microsoft 365 Business Standard",
+      "description": "Enjoy limited-time savings this holiday season on Microsoft 365 and build your business with ease, efficiency, and security.",
+      "btn": "Shop Microsoft 365 Business Standard",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsrc": "./images/for business (1).jpg",
+      "imgalt": "for business",
+      "title": "Join the era of AI",
+      "description": "Create, communicate, and code with the latest Microsoft AI solutions.",
+      "btn": "Explore AI solutions",
+      "btnlink": "#"
+    },
+    {
+      "link": "#",
+      "imgsrc": "./images/for business (3).webp",
+      "imgalt": "for business",
+      "title": "Welcome to your Windows 365 Cloud PC",
+      "description": "Securely stream your Windows experience from the Microsoft cloud to any device.",
+      "btn": "Get it today",
+      "btnlink": "#"
+    }
+  ],
+  "secondswiper": [
+    {
+      "mainlink": "#",
+      "imgalt": "AI tips",
+      "smimage": "./images/small-swiper2 (1).jpg",
+      "lgimage": "./images/medium-swiper2 (1).jpg",
+      "xlimage": "./images/wide-swiper2 (1).jpg",
+      "title": "Helping communities recover quickly",
+      "description": "AI helps Team Rubicon, a veteran-led humanitarian organization, provide disaster response to people when they need it most.",
+      "btnlink": "#",
+      "btn": "Find out More"
+    },
+    {
+      "mainlink": "#",
+      "imgalt": "helping",
+      "smimage": "./images/small-swiper2 (2).jpg",
+      "lgimage": "./images/medium-swiper2 (2).jpg",
+      "xlimage": "./images/wide-swiper2 (2).jpg",
+      "title": "Adding AI to your day",
+      "description": "From building a workout routine to recapping meeting notes, get real-world tips and tricks from Microsoft employees who use AI to help make their days a little easier.",
+      "btnlink": "#",
+      "btn": "Read their daily diaries"
+    }
+  ],
+  "socialmedia": [
+    {
+      "link": "#",
+      "iconclass": "fa-brands fa-x-twitter"
+    },
+    {
+      "link": "#",
+      "iconclass": "fa-brands fa-facebook-f"
+    },
+    {
+      "link": "#",
+      "iconclass": "fa-brands fa-linkedin"
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "title": "What's New",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Surface Laptop Studio 2",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Surface Laptop Go 3",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Surface Pro 9",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Surface Laptop 5",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Surface Studio 2+",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Copilot in Windows",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Microsoft 365",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Windows 11 apps",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Microsoft Store",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Account profile",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Download Center",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Microsoft Store support",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Returns",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Order tracking",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Certified Refurbished",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Microsoft Store Promise",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Flexible Payments",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Education",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Microsoft in education",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Devices for education",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Microsoft Teams for Education",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Microsoft 365 Education",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "How to buy for your school",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Educator training and development",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Deals for students and parents",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Azure for students",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Business",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Microsoft Cloud",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Microsoft Security",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Dynamics 365",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Microsoft 365",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Microsoft Power Platform",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Microsoft Teams",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Microsoft Industry",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Small Business",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Developer & IT",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Azure",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "Developer Center",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Documentation",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Microsoft Learn",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Microsoft Tech Community",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Azure Marketplace",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "AppSource",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Visual Studio",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Company",
+      "link": "",
+      "dropdown": [
+        {
+          "id": 1,
+          "title": "Careers",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 2,
+          "title": "About Microsoft",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 3,
+          "title": "Company news",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 4,
+          "title": "Privacy at Microsoft",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 5,
+          "title": "Investors",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 6,
+          "title": "Diversity and inclusion",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 7,
+          "title": "Accessibility",
+          "link": "#",
+          "dropdown": []
+        },
+        {
+          "id": 8,
+          "title": "Sustainability",
+          "link": "#",
+          "dropdown": []
+        }
+      ]
+    }
+  ],
+  "aboutsite": [
+    {
+      "id": 1,
+      "title": "Sitemap",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Contact Microsoft",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Privacy",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Manage Cookies",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Terms of use",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Trademarks",
+      "link": "#"
+    },
+    {
+      "id": 7,
+      "title": "Safety and eco",
+      "link": "#"
+    },
+    {
+      "id": 8,
+      "title": "Recycling",
+      "link": "#"
+    },
+    {
+      "id": 9,
+      "title": "About our ads",
+      "link": "#"
+    },
+    {
+      "id": 10,
+      "title": "© Microsoft 2023",
+      "link": ""
+    }
+  ]
+}
